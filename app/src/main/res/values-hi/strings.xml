@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">बहुभाषा</string>
+    <string name="hello">नमस्ते</string>
+    <string name="email">ईमेल पता</string>
+    <string name="password">कुंजिका</string>
+    <string name="signup">खाता नहीं है?साइन अप करें</string>
+    <string name="login">लॉग इन करें</string>
+    <string name="changelang">भाषा बदलो</string>
+</resources>
